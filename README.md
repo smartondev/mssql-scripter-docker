@@ -5,6 +5,10 @@ This is a docker image for the mssql-scripter tool.
 
 Based on [@ianthetechie](https://github.com/ianthetechie) [comment](https://github.com/microsoft/mssql-scripter/issues/236#issuecomment-824553254)
 
+## Security
+
+See [SECURITY.md](SECURITY.md)
+
 ## Contributing
 
 Welcome! I am happy that you want to make the project better.
