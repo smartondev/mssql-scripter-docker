@@ -31,4 +31,4 @@ MIT, see [LICENSE](LICENSE).
 
 ## Author
 
-[Márton Somogyi][https://github.com/Kamarton]
+[Márton Somogyi](https://github.com/Kamarton)
